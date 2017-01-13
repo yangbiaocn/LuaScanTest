@@ -1,1 +1,1 @@
-# LuaScanTest
+# LuaScanTestAn Scanner Low-Level Driver Test tool based on Lua.
